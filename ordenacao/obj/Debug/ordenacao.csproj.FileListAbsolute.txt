@@ -1,0 +1,15 @@
+C:\Users\leobr\source\repos\ordenacao\ordenacao\bin\Debug\ordenacao.exe.config
+C:\Users\leobr\source\repos\ordenacao\ordenacao\bin\Debug\ordenacao.exe
+C:\Users\leobr\source\repos\ordenacao\ordenacao\bin\Debug\ordenacao.pdb
+C:\Users\leobr\source\repos\ordenacao\ordenacao\obj\Debug\ordenacao.csproj.AssemblyReference.cache
+C:\Users\leobr\source\repos\ordenacao\ordenacao\obj\Debug\ordenacao.inicio.resources
+C:\Users\leobr\source\repos\ordenacao\ordenacao\obj\Debug\ordenacao.ordArquivo.resources
+C:\Users\leobr\source\repos\ordenacao\ordenacao\obj\Debug\ordenacao.ordAuto.resources
+C:\Users\leobr\source\repos\ordenacao\ordenacao\obj\Debug\ordenacao.Properties.Resources.resources
+C:\Users\leobr\source\repos\ordenacao\ordenacao\obj\Debug\ordenacao.csproj.GenerateResource.cache
+C:\Users\leobr\source\repos\ordenacao\ordenacao\obj\Debug\ordenacao.csproj.CoreCompileInputs.cache
+C:\Users\leobr\source\repos\ordenacao\ordenacao\obj\Debug\ordenacao.exe
+C:\Users\leobr\source\repos\ordenacao\ordenacao\obj\Debug\ordenacao.pdb
+C:\Users\leobr\source\repos\ordenacao\ordenacao\obj\Debug\ordenacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\leobr\source\repos\ordenacao\ordenacao\bin\Debug\Newtonsoft.Json.dll
+C:\Users\leobr\source\repos\ordenacao\ordenacao\obj\Debug\ordenacao.csproj.CopyComplete
